@@ -1,4 +1,4 @@
-## Hi, I'm Ali Ahammad Shaik
+## Hi, I'm Ali Shaik
 
 Senior Data Engineer with 8+ years of experience building scalable ETL/ELT pipelines and cloud-native data platforms across healthcare, clinical research, banking, and retail.
 
